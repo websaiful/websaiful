@@ -22,4 +22,22 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=websaiful&show_icons=true&locale=en" alt="websaiful" /></p>
 
 
-<h2>Education Qualification:</h2>
+<h1>Education Qualification:</h1>
+<h2><u>secondary school certificate(ssc):</u></h2>
+<ul>
+        <li>School&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  : Technical Training Centre, Kotbari Cumilla </li>
+        <li>Board&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:  Bangladesh Technical Education Board</li>
+        <li>Group&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Science</li>
+        <li>Trade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Refrigeration and air-condition </li>
+        <li>Passing Year&nbsp; : 2017 </li>
+        <li>Result&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: GPA-4.75(Out Of 5.00)</li>
+    </ul>
+   <h2><u>Diploma in Engineering:</u></h2>
+   <ul>
+        <li>Institute&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Cumilla Polytechnic Institute, Kotbari Cumilla </li>
+        <li>Board&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Bangladesh Technical Education Board </li>
+        <li>Department&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Civil Technology </li>
+        <li>Course duration: Four Year </li>
+        <li>Passing Year&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 2022 </li>
+        <li>Result&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: CGPA-3.62(Out Of 4.00)</li>
+    </ul>
