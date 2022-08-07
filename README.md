@@ -41,3 +41,6 @@
         <li>Passing Year&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 2022 </li>
         <li>Result&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: CGPA-3.62(Out Of 4.00)</li>
     </ul>
+    <h1>Computer Skills:</h1>
+      <p>Office programmed:(Microsoft Word, Microsoft Excel, Power Point)</p>
+      <p>Others :(Adobe Photoshop, Internet Browsing, setup windows )</p>
