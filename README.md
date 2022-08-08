@@ -50,5 +50,10 @@
     <h1>Computer Skills:</h1>
       <p>Office programmed:(Microsoft Word, Microsoft Excel, Power Point)</p>
       <p>Others :(Adobe Photoshop, Internet Browsing, setup windows )</p>
+      <h1>Sports / Game / Activities / Hobby:</h1>
+      <ul>
+        <li>🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball</li>
+        <li>🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking</li>
+    </ul>
    
     
