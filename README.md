@@ -41,11 +41,14 @@
         <li>Passing Year&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 2022 </li>
         <li>Result&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: CGPA-3.62(Out Of 4.00)</li>
     </ul>
+        <h1>Languages:</h1>
+    <ul>
+        <li>🇧🇩 Bangla : Native</li>
+        <li>English : Good</li>
+        <li>🇮🇳 Hindi : Intermediate</li>
+    </ul>
     <h1>Computer Skills:</h1>
       <p>Office programmed:(Microsoft Word, Microsoft Excel, Power Point)</p>
       <p>Others :(Adobe Photoshop, Internet Browsing, setup windows )</p>
-        <h1>Sports / Game / Activities / Hobby:</h1>
-         <ul>
-        <li>🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball</li>
-        <li>🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking</li>
-    </ul>
+   
+    
